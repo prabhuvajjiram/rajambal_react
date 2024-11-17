@@ -1,0 +1,10 @@
+node_modules
+
+# Image folders
+/images/*
+/images/products/*
+/images/colors/*
+/images/additional/*
+
+# Logs
+*.log
